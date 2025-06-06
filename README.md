@@ -38,7 +38,7 @@ Weather App — это React-приложение, демонстрирующе�
 </div>
 <br><br>
 
-# 🚨 Disclaimer
+## 🚨 Disclaimer
 <br><br>
 <div align="center">
    <b>🌍 EN:</b><br />
@@ -59,8 +59,9 @@ The author is not responsible for data usage or third-party service availability
 </div>
 <br><br>
   
+  ## 🛠️ In Progress
+
   <div align="center">
-  <h1>🛠️ In Progress</h1>
    <br><br>
 <p>✅ Поиск города по названию</p>
 <p>✅ Получение погоды по геолокации</p>
