@@ -5,25 +5,11 @@
 <div align="center">
   <b>🌍 EN:</b><br />
 <p>
-  Nexcent is a fully responsive landing page built from a
-  <a href="https://www.figma.com/design/lx5XOpG2wi9BVE3PWYlaIc/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=204-686&t=u43mfh9BpEz9t7xx-1"><strong>Figma design</strong></a>,
-  using modern frontend technologies.
+ Weather App is a React application demonstrating practical use of a third-party REST API — OpenWeatherMap.
 </p>
 
 <p>
-The project is developed with React, Tailwind CSS, Vite, and Framer Motion.
-</p>
-
-<p>
-The main goal was to practice pixel-perfect layout implementation,  
-create a smooth responsive experience across all devices,  
-and enhance interactivity through clean animations.
-</p>
-
-<p>
- The layout was built from scratch without any templates,  
-showcasing attention to detail, well-structured components,  
-and confident use of today's development tools.
+The project shows how to integrate external weather data into a web application using modern tools.
 </p>
 </div>
 <br><br>
