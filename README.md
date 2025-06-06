@@ -42,7 +42,7 @@ Weather App — это React-приложение, демонстрирующе�
   
 ## ⚙️ Tech Stack
 
-<br><br>
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -50,7 +50,7 @@ Weather App — это React-приложение, демонстрирующе�
   <img src="https://img.shields.io/badge/axios-%234682C5.svg?style=for-the-badge&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/react_query-%2361DAFB.svg?style=for-the-badge&logo=react-query&logoColor=white"/>
 </div>
-<br><br>
+<br>
 
 ## 🚨 Disclaimer
 <br><br>
@@ -115,7 +115,7 @@ The author is not responsible for data usage or third-party service availability
 
  <br>
   
-    <div align="center">
+  <div align="center">
         <a href="https://t.me/kushovka">
 <img src="https://img.shields.io/badge/Telegram-%2304A1F7.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
         </a>
