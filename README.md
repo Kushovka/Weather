@@ -92,7 +92,8 @@ The author is not responsible for data usage or third-party service availability
 
 ## 🚀 Installation (locally)
 
- <br><br>
+ <br>
+  
 <div>
 
 <p>📦 git clone <span>https://github.com/Kushovka/Weather.git</span></p>
@@ -107,11 +108,13 @@ The author is not responsible for data usage or third-party service availability
 <p>💻 npm run dev</p>
 
 </div>
- <br><br>
+
+ <br>
 
 ## ☎️ Connect with me
 
- <br><br>
+ <br>
+  
     <div align="center">
         <a href="https://t.me/kushovka">
 <img src="https://img.shields.io/badge/Telegram-%2304A1F7.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -127,4 +130,4 @@ The author is not responsible for data usage or third-party service availability
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
 </div>
- <br><br>
+ <br>
