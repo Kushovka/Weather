@@ -1,5 +1,6 @@
 # 👉 **[Weather Website](https://kushovka.github.io/Weather/)** — React + Tailwind CSS + axios
-<br><br>
+<br>
+
 ![photo-output](https://github.com/user-attachments/assets/e052ab89-8ec4-4a82-9f4e-f8e3517b02af)
 
 ### 📚 Table of Contents
