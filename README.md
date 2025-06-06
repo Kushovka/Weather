@@ -1,5 +1,4 @@
-# 👉 **[Weather](https://kushovka.github.io/Weather/)**
-# 👉 **[Nexcent Website](https://kushovka.github.io/Nexcent/)** — React + Tailwind CSS
+# 👉 **[Weather Website](https://kushovka.github.io/Weather/)** — React + Tailwind CSS
 <br><br>
 
 <br><br>
