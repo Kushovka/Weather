@@ -25,7 +25,7 @@ Weather App — это React-приложение, демонстрирующе�
 
 </div>
 <br><br>
-<h1>⚙️ Tech Stack</h1>
+## ⚙️ Tech Stack
 <br><br>
 <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
