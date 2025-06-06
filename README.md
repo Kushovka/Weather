@@ -32,6 +32,7 @@ Weather App — это React-приложение, демонстрирующе�
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/axios-%234682C5.svg?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_query-%2361DAFB.svg?style=for-the-badge&logo=react-query&logoColor=white"/>
 </div>
 <br><br>
 
