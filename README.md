@@ -41,13 +41,10 @@ Weather App — это React-приложение, демонстрирующе�
 <div align="center">
    <b>🌍 EN:</b><br />
   <p>
-    <p>This project was created for educational and portfolio purposes only. </p> 
-    <p>All design rights belong to their respective owners.   </p> 
+    <p>This project is for learning and demonstrating API usage.</p>
+    <p>Use your own API key and keep it secure.</p> 
 
-The layout was recreated based on a
-<a href="https://www.figma.com/design/7D4W4SewIgAFvWw1qPiWUS/positivus-figma-template?node-id=330-762&t=PLjKCXPo1UeUd3ON-1"><strong>Figma design</strong></a>.
-
-to demonstrate frontend development skills.</p>
+The author is not responsible for data usage or third-party service availability</p>
 </div>
 <br><br>
 <div align="center">
