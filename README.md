@@ -30,7 +30,7 @@ The project shows how to integrate external weather data into a web application 
 <div align="center">
 <b>🌍 RU:</b><br />
 <p>
-Weather App — это React-приложение, демонстрирующее практическое использование стороннего REST API — OpenWeatherMap. 
+Weather App — это React-приложение, демонстрирующее практическое использование стороннего REST API — <a href="https://openweathermap.org/api">OpenWeatherMap.</a> 
 </p>
 
 <p>
