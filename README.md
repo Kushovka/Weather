@@ -19,7 +19,7 @@
 <div align="center">
   <b>🌍 EN:</b><br />
 <p>
- Weather App is a React application demonstrating practical use of a third-party REST API — OpenWeatherMap.
+ Weather App is a React application demonstrating practical use of a third-party REST API — <a href="https://openweathermap.org/api">OpenWeatherMap.</a>.
 </p>
 
 <p>
