@@ -62,9 +62,12 @@ The author is not responsible for data usage or third-party service availability
  <br><br>
 <div>
 
-<p>📦 git clone https://github.com/kushovka/Nexcent.git</p>
-<p>📁 cd Nexcent</p>
+<p>📦 git clone https://github.com/Kushovka/Weather.git</p>
+<p>📁 cd Weather</p>
 <p>📲 npm install</p>
+
+<h2>В корне проекта создай .env файл и добавь туда свой API-ключ **[OpenWeatherMap](https://openweathermap.org/api)**</h2>
+
 <p>💻 npm run dev</p>
 
 </div>
