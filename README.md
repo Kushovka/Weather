@@ -12,7 +12,7 @@
 - [🚀 Installation (locally)](#-installation-locally)
 - [☎️ Connect with me](#️-connect-with-me)
 
-<br><br>
+<br>
 
 ## 🗺️ Project Description
 
