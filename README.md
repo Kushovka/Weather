@@ -1,4 +1,4 @@
-# 👉 **[Weather Website](https://kushovka.github.io/Weather/)** — React + Tailwind CSS
+# 👉 **[Weather Website](https://kushovka.github.io/Weather/)** — React + Tailwind CSS + axios
 <br><br>
 
 <br><br>
