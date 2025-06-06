@@ -3,6 +3,13 @@
 
 ### 📚 Table of Contents
 
+- [🌍 Project Description](#project-description)
+- [⚙️ Tech Stack](#️-tech-stack)
+- [🚨 Disclaimer](#-disclaimer)
+- [🛠️ In Progress](#️-in-progress)
+- [🚀 Installation (locally)](#-installation-locally)
+- [☎️ Connect with me](#️-connect-with-me)
+
 <br><br>
 
 ## 🗺️ Project Description
