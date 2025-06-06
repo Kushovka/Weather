@@ -69,7 +69,7 @@ The author is not responsible for data usage or third-party service availability
 <h3>
 В корне проекта создай .env файл и добавь туда свой API-ключ <a href="https://openweathermap.org/api" >OpenWeatherMap </a>
 </h3>
-<p>⛓️ VITE_API_KEY="твой_ключ";</p>
+<p>👉 VITE_API_KEY="твой_ключ";</p>
 
 <p>💻 npm run dev</p>
 
