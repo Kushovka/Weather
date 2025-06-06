@@ -53,7 +53,7 @@ Weather App — это React-приложение, демонстрирующе�
 <br>
 
 ## 🚨 Disclaimer
-<br><br>
+<br>
 <div align="center">
    <b>🌍 EN:</b><br />
   <p>
@@ -71,7 +71,7 @@ The author is not responsible for data usage or third-party service availability
 
 Автор не отвечает за использование данных и работу сторонних сервисов.</p>
 </div>
-<br><br>
+<br>
   
   ## 🛠️ In Progress
 
