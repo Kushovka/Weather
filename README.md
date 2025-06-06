@@ -75,7 +75,9 @@ The author is not responsible for data usage or third-party service availability
 <p>❌ Подсказки городов при вводе</p>
 </div>
  <br><br>
-<h1>🚀 Installation (locally) </h1>
+
+## 🚀 Installation (locally)
+
  <br><br>
 <div>
 
@@ -93,7 +95,8 @@ The author is not responsible for data usage or third-party service availability
 </div>
  <br><br>
 
-<h1>☎️ Connect with me </h1>
+## ☎️ Connect with me
+
  <br><br>
     <div align="center">
         <a href="https://t.me/kushovka">
