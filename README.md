@@ -1,7 +1,12 @@
 # 👉 **[Weather Website](https://kushovka.github.io/Weather/)** — React + Tailwind CSS + axios
 <br><br>
 
+### 📚 Table of Contents
+
 <br><br>
+
+## 🗺️ Project Description
+
 <div align="center">
   <b>🌍 EN:</b><br />
 <p>
