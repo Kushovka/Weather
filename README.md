@@ -62,13 +62,13 @@ The author is not responsible for data usage or third-party service availability
  <br><br>
 <div>
 
-<p>📦 git clone https://github.com/Kushovka/Weather.git</p>
+<p>📦 git clone <span>https://github.com/Kushovka/Weather.git</span></p>
 <p>📁 cd Weather</p>
 <p>📲 npm install</p>
 
-<h3>
+<h4>
 В корне проекта создай .env файл и добавь туда свой API-ключ <a href="https://openweathermap.org/api" >OpenWeatherMap </a>
-</h3>
+</h4>
 <p>👉 VITE_API_KEY="твой_ключ";</p>
 
 <p>💻 npm run dev</p>
