@@ -67,7 +67,7 @@ The author is not responsible for data usage or third-party service availability
 <p>📲 npm install</p>
 
 <h2>
-В корне проекта создай .env файл и добавь туда свой API-ключ <a>OpenWeatherMap href="https://openweathermap.org/api"</a>
+В корне проекта создай .env файл и добавь туда свой API-ключ <a href="https://openweathermap.org/api" >OpenWeatherMap </a>
 </h2>
 
 <p>💻 npm run dev</p>
